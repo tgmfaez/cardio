@@ -25,12 +25,9 @@ According to the CDC, heart disease is a leading cause of death for people of mo
 ![__results___43_0](https://github.com/user-attachments/assets/8b516c14-3cbc-4bbd-8b8d-301f522569a0)
 
 We can see that Age has the highest relation to heart diseases.
-
+   
                                                                                                                                         
    
-   
-
-
 **Distribution of BMI, Age, Gender, General Health, Race with Heart Disease**
 
 
