@@ -14,3 +14,12 @@ According to the CDC, heart disease is a leading cause of death for people of mo
 2) https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease/data
 
 ![Heart Disease Pictures](https://github.com/user-attachments/assets/28523e44-f1ba-45e0-bcd3-905a10917610)
+
+
+
+**Heart Disease Prediction Using ML Models**
+
+
+*Distribution of BMI, Age, Gender, General Health, Race with Heart Diesease*
+
+
