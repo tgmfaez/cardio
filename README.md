@@ -22,4 +22,5 @@ According to the CDC, heart disease is a leading cause of death for people of mo
 
 *Distribution of BMI, Age, Gender, General Health, Race with Heart Diesease*
 
+![__results___27_0](https://github.com/user-attachments/assets/4cd3c46d-617c-43f4-98f3-bd52c06c8b5a)  ![__results___28_0](https://github.com/user-attachments/assets/a25bcea6-ad77-4bb8-88a1-eeffac533369)
 
