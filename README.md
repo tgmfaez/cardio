@@ -91,15 +91,22 @@ We performed 5 types of Machine Learning models on the datasets to check the per
 
 
 *Algorithms	Accuracies*
+
 1 -	Logistic Regression	  0.746939
+
 2	- Random Forest	        0.881941
+
 3	- Gradient Boosting	    0.859226
+
 4	- XGBoost Classifier	  0.902832
+
 5	- LightGBM Classifier	  0.901570
+
 
 We can see that the highest algorithm accuracies is the XGBoost & LightGBM classifier for the Heart Diseases Prediction Machine Learning models.
 
 **Conlusion**
+
 Age is the biggest factor of heart diseases. The older you are the higher the chances of heart disease.
 
 
