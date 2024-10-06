@@ -1,6 +1,11 @@
 # Heart Disease Prediction
 
-**2022 annual CDC survey data of 400k+ adults related to their health status**
+**Introduction**
+Heart disease is a broad term for a range of conditions affecting the heart's function and structure. It is one of the leading causes of death worldwide, often linked to lifestyle factors like poor diet, lack of exercise, and smoking. Common types include coronary artery disease, heart attacks, and heart failure. Early detection and management through lifestyle changes or medical intervention can significantly improve outcomes. Understanding the risk factors and symptoms is key to prevention and treatment.
+
+Heart disease often involves the buildup of plaque in the coronary arteries, reducing blood flow to the heart muscle. This condition, called atherosclerosis, can lead to serious complications like heart attacks. Timely diagnosis and treatment, such as lifestyle changes or medical intervention, are essential to manage and prevent further damage to the heart. In our dataset we will see what is the reason of Heart Disease.
+
+**2022 annual CDC (Centers for Disease Control and Prevention) survey data of 400k+ adults related to their health status**
 
 **What subject does the dataset cover?**
 
@@ -15,6 +20,12 @@ According to the CDC, heart disease is a leading cause of death for people of mo
 
 ![Heart Disease Pictures](https://github.com/user-attachments/assets/28523e44-f1ba-45e0-bcd3-905a10917610)
 
+**Heart Diseases Analysis**
+
+*Correlation heat map with Heart Diseases*
+![__results___43_0](https://github.com/user-attachments/assets/8b516c14-3cbc-4bbd-8b8d-301f522569a0)
+
+We can see that Age has the highest relation to heart diseases.
 
 
 **Distribution of BMI, Age, Gender, General Health, Race with Heart Diesease**
@@ -32,12 +43,12 @@ According to the CDC, heart disease is a leading cause of death for people of mo
 ![__results___31_0](https://github.com/user-attachments/assets/02a4c44c-425e-4134-84d2-da2b18f3fd15)
 
 
-**Ditribution of Other Diseases with Heart Diseases**
+**Distribution of Other Diseases with Heart Diseases**
 
 ![__results___35_0](https://github.com/user-attachments/assets/956ccec8-de3f-4978-b713-b296ff03b50f)
 
 
-**Ditribution of Smoking over Heart Diseases**
+**Distribution of Smoking over Heart Diseases**
 
 ![__results___40_0](https://github.com/user-attachments/assets/16456348-b01a-4e5d-8bac-74c0b750c7c1)
 
@@ -72,7 +83,7 @@ LightGBM Classifier Accuracy: 0.9015703869882221
 
 
 **Conlusion**
-We can see that The highest algorithm accuracies is the XGBoost & LightGBM classifier.
+We can see that The highest algorithm accuracies is the XGBoost & LightGBM classifier for the Heart Diseases Perdiction Machine Learning
 
 
 *Algorithms	Accuracies*
