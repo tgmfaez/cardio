@@ -12,7 +12,7 @@ According to the CDC, heart disease is a leading cause of death for people of mo
 
 **References:** 
 
-1) https://www.cdc.gov/heart-disease/risk-factors/?CDC_AAref_Val=https://www.cdc.gov/heartdisease/risk_factors.htm
+1) https://www.cdc.gov/heart-disease/risk-factors
                                                                                                              
                                                                                                                
 2) https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease/data
