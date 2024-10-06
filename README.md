@@ -1,5 +1,3 @@
-
-
 **Introduction**
 
 Heart disease is a broad term for a range of conditions affecting the heart's function and structure. It is one of the leading causes of death worldwide, often linked to lifestyle factors like poor diet, lack of exercise, and smoking. Common types include coronary artery disease, heart attacks, and heart failure. Early detection and management through lifestyle changes or medical intervention can significantly improve outcomes. Understanding the risk factors and symptoms is key to prevention and treatment.
