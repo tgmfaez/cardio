@@ -61,26 +61,31 @@ We performed 5 types of Machine Learning models on the datasets to check the per
 
 *Logistic Regression Confusion Matrix*
 ![__results___60_1](https://github.com/user-attachments/assets/9a984e46-291a-4f78-b1ca-cf729a0d1a13)
+
 *Logistic Regression Accuracy: 0.7469386801271266
 
 **2) Random Forest**
 *Random Forest Confusion Matrix*
 ![__results___63_1](https://github.com/user-attachments/assets/3de0d815-9696-41eb-9f0f-c86d6dfa3121)
+
 *Random Forest Classifier Accuracy: 0.8819405496354459
 
 **3) Gradient Boosting**
 "Gradient Boosting Confusion Matrix*
 ![__results___66_1](https://github.com/user-attachments/assets/5cbbc330-a54b-4788-87c8-38fed9d09a45)
+
 *Gradient Boosting Classifier Accuracy: 0.8592260235558048
 
 **4) XG Boost**
 *XG Boost Confusion Matrix*
 ![__results___69_1](https://github.com/user-attachments/assets/bbb1dae6-a54e-4069-98b7-bc8b1181fd00)
+
 *XGBoost Classifier Accuracy: 0.9028323051037577
 
 **5) Light GBM**
 *Light GBM Confusion Matrix*
 ![__results___72_1](https://github.com/user-attachments/assets/5f5afc40-2573-4c57-a2a1-405ac48e18be)
+
 *LightGBM Classifier Accuracy: 0.9015703869882221
 
 
