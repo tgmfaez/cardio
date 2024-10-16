@@ -104,9 +104,7 @@ We performed 5 types of Machine Learning models on the datasets to check the per
 
 We can see that the highest algorithm accuracies is the XGBoost & LightGBM classifier for the Heart Diseases Prediction Machine Learning models.
 
-**Conlusion**
 
-Age is the biggest factor of heart diseases. The older you are the higher the chances of heart disease.
 
 
 
